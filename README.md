@@ -7,3 +7,7 @@
  - commit --> save you files in git
 
  ## Adding content using IDE on my local machine
+
+## Local Test
+
+- Make changes to index.html
