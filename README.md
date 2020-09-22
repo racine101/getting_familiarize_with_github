@@ -5,6 +5,12 @@
  - push --> Upload git commits to a remote repo
  - clone --> Bring a reposiory that is hosted somewhere like GITHUB into a folder on your local machine
  - commit --> save you files in git
+ ## GitHub Terminal Commands 
+ - git init
+ - git status
+ - git add
+ - git commit
+ - git push
 
  ## Adding content using IDE on my local machine
 
