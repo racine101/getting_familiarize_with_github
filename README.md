@@ -1,4 +1,4 @@
-# Basic GITHUB features 
+# Basic GITHUB features & Terminal Commands
 
 ----
  - pull --> Download changes from remote repo to your machine
