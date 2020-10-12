@@ -18,19 +18,6 @@
 |git push | push your new branches and data to a remote repository|
     others:	init,	reset,	branch,	checkout,	merge,	log,	tag	
 
-
- - git init
- - git status
- - git add
- - git commit
- - git push
-
- ## Adding content using IDE on my local machine
-
-## Local Test
-
-- Make changes to index.html
-
 ## Basic Linux Commands Cheat-Sheet
 This list includes a bunch of different commands that are useful to know when working with Linux. Feel free to investigate them on your own.
 
